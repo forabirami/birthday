@@ -1,3 +1,3 @@
 <Html>
-  <p>Happy Birthday</P>  
+window.location.replace("https://abiramibirthday.000webhostapp.com/");
 </html>
